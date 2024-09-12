@@ -45,7 +45,7 @@ setting up your project and committed the changes.
 
 Now you can clone the project locally and get to work!
 
-    git clone https://github.com/<user>/<your_new_repo>.git
+    git clone https://github.com/arifumer78/jupiter.git
 
 ## More Details
 
